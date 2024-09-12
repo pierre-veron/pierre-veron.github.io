@@ -16,9 +16,7 @@ I'm interested in speciation research, my work focuses on theoretical prediction
 * Hélène Morlon ([Biodiv team](https://www.phyloeco.bio.ens.psl.eu/))
 * Tatiana Giraud ([Evolutionary Genetics and Ecology team](https://www.ideev.universite-paris-saclay.fr/en/equipes/ese-gee/)).
 
-<img src="icons/ibens.png" alt="IBENS" height=60>  
-<img src="icons/ens-psl.png" alt="ENS - PSL" height=60>  
-<img src="icons/ese.jpg" alt="ESE" height=60>  
+![IBENS, ENS-PSL, ESE, UPSaclay](icons/institutions.png)
 
 ## My work 
 I am working of theoretical modelisation of the different steps of speciation, with the aim to understand which microevolutionary processes modulate the rates of speciation in the living world. 
@@ -31,7 +29,7 @@ To do so I rely on a modelisation approach, for instance using the holey adaptiv
 
 Additionnaly, I work on more macroevolutionnary models such as the protracted birth death model of speciation (PBD) to analyse the most influent steps of speciation (population splitting, accumulation of reproductive isolation, population survival). 
 
-<img src="fig/influence_parameters_speciation.PNG" alt="Influence of the speciation time">
+<img src="fig/influence_parameters_speciation.PNG" alt="Influence on the speciation rate">
 
 _Most influent steps of the speciation on the overall speciation rate._
 
