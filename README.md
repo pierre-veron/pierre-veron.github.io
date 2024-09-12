@@ -1,5 +1,5 @@
 # Pierre Veron
-[About](#about) · [Publications](#publications) · [Teaching](#teaching) · [Talks and posters](#talks-and-posters) · [Contact](#contact) · [Misc](#misc)
+[About](#about) · [My work](#my-work) · [Publications](#publications) · [Teaching](#teaching) · [Talks and posters](#talks-and-posters) · [Contact](#contact) · [Misc](#misc)
 
 <p align="center">
    <a href="https://scholar.google.com/citations?user=zMhd4LMAAAAJ&hl=fr" target="_blank"><img src="icons/scholar.png" alt="Google scholar" width=40></a>
@@ -16,9 +16,9 @@ I'm interested in speciation research, my work focuses on theoretical prediction
 * Hélène Morlon ([Biodiv team](https://www.phyloeco.bio.ens.psl.eu/))
 * Tatiana Giraud ([Evolutionary Genetics and Ecology team](https://www.ideev.universite-paris-saclay.fr/en/equipes/ese-gee/)).
 
-<img src="icons/ibens.png" alt="IBENS" height=60></a>
-<img src="icons/ens-psl.png" alt="ENS - PSL" height=60></a>
-<img src="icons/ese.jpg" alt="ESE" height=60></a>
+<img src="icons/ibens.png" alt="IBENS" height=60>  
+<img src="icons/ens-psl.png" alt="ENS - PSL" height=60>  
+<img src="icons/ese.jpg" alt="ESE" height=60>  
 
 ## My work 
 I am working of theoretical modelisation of the different steps of speciation, with the aim to understand which microevolutionary processes modulate the rates of speciation in the living world. 
