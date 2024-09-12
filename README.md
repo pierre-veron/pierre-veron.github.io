@@ -1,11 +1,13 @@
 # Pierre Veron
+[About](#about) · [Publications](#publications) · [Teaching](#teaching) · [Talks and posters](#talks-and-posters) · [Contact](#contact) · [Misc](#misc)
+
 <p align="center">
    <a href="https://scholar.google.com/citations?user=zMhd4LMAAAAJ&hl=fr" target="_blank"><img src="icons/scholar.png" alt="Google scholar" width=40></a>
    <a href="https://orcid.org/0000-0003-2896-4250" target="_blank"><img src="icons/orcid.png" alt="ORCID" width=40></a>
    <a href="https://pierre-veron.github.io/CV.html"><img src="icons/resume.png" alt="CV" width=40></a>
     <a href="https://github.com/pierre-veron"><img src="icons/github.jpg" alt="Github" width=40></a>
+    <a href="mailto:pveron@bio.ens.psl.eu"><img src="icons/email.png" alt="E-mail" width=40></a>
 </p>
-
 
 ## About
 Hi! I'm Pierre Veron, PhD student in evolution and ecology at Institute of Biology of École Normale Supérieure ([IBENS](https://www.ibens.ens.fr/)) and at Institute for the Diversity, Ecology and Evolution of the Living World of the Université Paris Saclay ([IDEEV](https://www.ideev.universite-paris-saclay.fr/en/)). 
@@ -56,8 +58,12 @@ Veron, P., Rozanski, R., Marques, V., Joost, S., Deschez, M. E., Trenkel, V. M.,
 * Congrès des Jeunes Chercheur·e·s du Muséum - May 04, 2023 - Muséum National d'Histoire Naturelle, Paris, France
 * Mathematical Population Dynamics, Ecology and Evolution (MPDEE 2023) - April 24, 2023 - CIRM, Marseille, France
 
+## Contact 
+:email: pveron [at] bio.ens.psl [dot] eu 
+
 ## Misc
-I'm interested in photography, my online portfolio can be found here: [https://pierreveron.myportfolio.com/](https://pierreveron.myportfolio.com/) 
+* I'm interested in photography, my online portfolio can be found here: [https://pierreveron.myportfolio.com/](https://pierreveron.myportfolio.com/) 
+* I have been co-organizing the [Astromaths](https://www.fondation-blaise-pascal.org/nos-actions/les-projets-de-la-fondation/le-camp-astromaths/) camp for several years, a summer school in astronomy in mathematics.  
 
 ---
 
