@@ -1,1 +1,56 @@
 # Pierre Veron
+
+## About
+Hi! I'm Pierre Veron, PhD student in evolution and ecology at Institute of Biology of École Normale Supérieure ([IBENS](https://www.ibens.ens.fr/)) and at Institute for the Diversity, Ecology and Evolution of the Living World of the Université Paris Saclay ([IDEEV](https://www.ideev.universite-paris-saclay.fr/en/)). 
+
+I'm interested in speciation research, my work focuses on theoretical predictions on the link between microevolution and macroevolution. I'm co-supervised by 
+* Hélène Morlon ([Biodiv team](https://www.phyloeco.bio.ens.psl.eu/))
+* Tatiana Giraud ([Evolutionary Genetics and Ecology team](https://www.ideev.universite-paris-saclay.fr/en/equipes/ese-gee/)).
+
+## Publications
+Veron, P., Andréoletti, J., Giraud, T., & Morlon, H. (2024). **Speciation completion rates have limited impact on macroevolutionary diversification**. _bioRxiv preprint_. doi: [10.1101/2024.07.01.601000](https://doi.org/10.1101/2024.07.01.601000)
+ 
+
+Morlon, H., Andréoletti, J., Barido-Sottani, J., Lambert, S., Perez-Lamarque, B., Quintero, I., Senderov, V. and Veron, P. (2024). **Phylogenetic Insights into Diversification**. _Annual Review of Ecology, Evolution, and Systematics, 55_, 1–21. doi: [10.1146/annurev-ecolsys-102722-020508](https://doi.org/10.1146/annurev-ecolsys-102722-020508)
+ 
+
+Veron, P., Rozanski, R., Marques, V., Joost, S., Deschez, M. E., Trenkel, V. M., Lorance, P., Valentini, A., Polanco, A. F., Pellissier, L., Eme, D. and Albouy, C. (2023). **Environmental DNA complements scientific trawling in surveys of marine fish biodiversity**. _ICES Journal of Marine Science, 80_(8), 2150–2165. doi: [10.1093/icesjms/fsad139](https://doi.org/10.1093/icesjms/fsad139)
+ 
+
+
+## Teaching 
+### Adaptive dynamics
+> Master 2 IMaLiS 2022 & 2023 | École normale supérieure - PSL, IBENS | Professor Régis Ferrière
+>
+> Adaptive dynamics modeling has become the dominant theoretical framework for "Darwinian ecology", i.e. the investigation of the ecological causes and consequences of evolution. The course will present the key concepts underlying the adaptive dynamics approach: environmental feedback loop, invasion fitness, evolutionary singularity, evolutionary stability, evolutionary branching, evolutionary suicide, pairwise invasibility plots and canonical equations. The general framework will be applied to study the eco-evolutionary dynamics of populations competing for resources, predator-prey interactions, and mutualistic systems. Hands-on tutorial sessions will aim at simulations of specific examples.
+
+### Maths training for L3 and M1 students
+> Master IMaLiS | École normale supérieure - PSL, IBENS | Professor Amaury Lambert 
+> 
+> The course covers differential equations, dynamical systems, elementary linear algebra, Markov chains, probabilities and statistics. The course website I created can be found [here](https://codimd.math.cnrs.fr/s/hmbX8GuA4#).
+
+### Computational biology
+> Master 1 IMaLiS | École normale supérieure - PSL, IBENS | Professors Pierre Vincens and Morgane Thomas-Chollier
+>The aim of this course is to introduce students to bioinformatics, by consolidating their knowledge in fundamental principles, as well as opening to current research topics in computational biology.
+>The course includes programming (`Python` and `R`) applied to biology, and courses with practicals in computational biology. The program covers:
+> * knowledge of different data structures,
+> * object-oriented programming (small course material),
+> * modelling tools: random variables and Markov chains with Python, stochastic processes, numerical integration applied to biology (small course material),
+> * introduction to biopython package for bioinformatics (small course material),
+> * manipulation of databases using `panda`.
+> * project of biostatistics in `R`
+
+
+## Talks and posters 
+* Stochastic Processes in Evolutionary Biology ([poster](https://hub.bio.ens.psl.eu/index.php/s/Kb8gWELjzJQapys/download/poster.pdf)) | Mai, 20, 2024 | CIRM, Marseille, France
+* Perspectives on speciation ([poster](https://hub.bio.ens.psl.eu/index.php/s/Kb8gWELjzJQapys/download/poster.pdf)) | April, 11, 2024 | London, UK
+* École de printemps de la chaire MMB | June, 12, 2023 | Aussois, France
+* Congrès des Jeunes Chercheur·e·s du Muséum (CJCM 2023) | May 04, 2023 | Muséum National d'Histoire Naturelle, Paris, France
+* Mathematical Population Dynamics, Ecology and Evolution (MPDEE 2023) | April 24, 2023 | CIRM, Marseille, France
+
+## Misc
+I'm interested in photography, my online portfolio can be found here: [https://pierreveron.myportfolio.com/](https://pierreveron.myportfolio.com/) 
+
+---
+
+Last update: 2024/09/12
