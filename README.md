@@ -16,6 +16,25 @@ I'm interested in speciation research, my work focuses on theoretical prediction
 * Hélène Morlon ([Biodiv team](https://www.phyloeco.bio.ens.psl.eu/))
 * Tatiana Giraud ([Evolutionary Genetics and Ecology team](https://www.ideev.universite-paris-saclay.fr/en/equipes/ese-gee/)).
 
+<img src="icons/ibens.png" alt="IBENS" height=60></a>
+<img src="icons/ens-psl.png" alt="ENS - PSL" height=60></a>
+<img src="icons/ese.jpg" alt="ESE" height=60></a>
+
+## My work 
+I am working of theoretical modelisation of the different steps of speciation, with the aim to understand which microevolutionary processes modulate the rates of speciation in the living world. 
+
+<img src="fig/summary_spec_steps.PNG" alt="Summary of the speciation steps">
+
+_Summary of the speciation steps and the most common ways to estimate them in the nature._
+
+To do so I rely on a modelisation approach, for instance using the holey adaptive landscape to analyse the influence of the parameters such as population size, mutation rate, outbreeding depression on the time for speciation in allopatric or parapatric mode. 
+
+Additionnaly, I work on more macroevolutionnary models such as the protracted birth death model of speciation (PBD) to analyse the most influent steps of speciation (population splitting, accumulation of reproductive isolation, population survival). 
+
+<img src="fig/influence_parameters_speciation.PNG" alt="Influence of the speciation time">
+
+_Most influent steps of the speciation on the overall speciation rate._
+
 ## Publications
 Veron, P., Andréoletti, J., Giraud, T., & Morlon, H. (2024). **Speciation completion rates have limited impact on macroevolutionary diversification**. _bioRxiv preprint_. doi: [10.1101/2024.07.01.601000](https://doi.org/10.1101/2024.07.01.601000)
  
