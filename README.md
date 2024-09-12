@@ -1,4 +1,11 @@
 # Pierre Veron
+<p align="center">
+   <a href="https://scholar.google.com/citations?user=zMhd4LMAAAAJ&hl=fr" target="_blank"><img src="icons/scholar_sized.png" alt="Google scholar" width=40></a>
+   <a href="https://orcid.org/0000-0003-2896-4250" target="_blank"><img src="icons/orcid_sized.png" alt="ORCID" width=40></a>
+   <a href="https://pierre-veron.github.io/CV.html"><img src="icons/resume.png" alt="CV" width=40></a>
+    <a href="https://github.com/pierre-veron"><img src="icons/github.png" alt="Github" width=40></a>
+</p>
+
 
 ## About
 Hi! I'm Pierre Veron, PhD student in evolution and ecology at Institute of Biology of École Normale Supérieure ([IBENS](https://www.ibens.ens.fr/)) and at Institute for the Diversity, Ecology and Evolution of the Living World of the Université Paris Saclay ([IDEEV](https://www.ideev.universite-paris-saclay.fr/en/)). 
@@ -31,6 +38,7 @@ Veron, P., Rozanski, R., Marques, V., Joost, S., Deschez, M. E., Trenkel, V. M.,
 
 ### Computational biology
 > Master 1 IMaLiS | École normale supérieure - PSL, IBENS | Professors Pierre Vincens and Morgane Thomas-Chollier
+> 
 >The aim of this course is to introduce students to bioinformatics, by consolidating their knowledge in fundamental principles, as well as opening to current research topics in computational biology.
 >The course includes programming (`Python` and `R`) applied to biology, and courses with practicals in computational biology. The program covers:
 > * knowledge of different data structures,
@@ -42,11 +50,11 @@ Veron, P., Rozanski, R., Marques, V., Joost, S., Deschez, M. E., Trenkel, V. M.,
 
 
 ## Talks and posters 
-* Stochastic Processes in Evolutionary Biology ([poster](https://hub.bio.ens.psl.eu/index.php/s/Kb8gWELjzJQapys/download/poster.pdf)) | Mai, 20, 2024 | CIRM, Marseille, France
-* Perspectives on speciation ([poster](https://hub.bio.ens.psl.eu/index.php/s/Kb8gWELjzJQapys/download/poster.pdf)) | April, 11, 2024 | London, UK
-* École de printemps de la chaire MMB | June, 12, 2023 | Aussois, France
-* Congrès des Jeunes Chercheur·e·s du Muséum (CJCM 2023) | May 04, 2023 | Muséum National d'Histoire Naturelle, Paris, France
-* Mathematical Population Dynamics, Ecology and Evolution (MPDEE 2023) | April 24, 2023 | CIRM, Marseille, France
+* Stochastic Processes in Evolutionary Biology ([poster](https://hub.bio.ens.psl.eu/index.php/s/Kb8gWELjzJQapys/download/poster.pdf)) -  Mai, 20, 2024 - CIRM, Marseille, France
+* Perspectives on speciation ([poster](https://hub.bio.ens.psl.eu/index.php/s/Kb8gWELjzJQapys/download/poster.pdf)) - April, 11, 2024 - London, UK
+* École de printemps de la chaire MMB - June, 12, 2023 - Aussois, France
+* Congrès des Jeunes Chercheur·e·s du Muséum - May 04, 2023 - Muséum National d'Histoire Naturelle, Paris, France
+* Mathematical Population Dynamics, Ecology and Evolution (MPDEE 2023) - April 24, 2023 - CIRM, Marseille, France
 
 ## Misc
 I'm interested in photography, my online portfolio can be found here: [https://pierreveron.myportfolio.com/](https://pierreveron.myportfolio.com/) 
