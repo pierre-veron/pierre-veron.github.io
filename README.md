@@ -1,2 +1,1 @@
-# pierre-veron.github.io
-Website
+# Pierre Veron
