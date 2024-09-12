@@ -1,7 +1,7 @@
 # Pierre Veron
 <p align="center">
-   <a href="https://scholar.google.com/citations?user=zMhd4LMAAAAJ&hl=fr" target="_blank"><img src="icons/scholar_sized.png" alt="Google scholar" width=40></a>
-   <a href="https://orcid.org/0000-0003-2896-4250" target="_blank"><img src="icons/orcid_sized.png" alt="ORCID" width=40></a>
+   <a href="https://scholar.google.com/citations?user=zMhd4LMAAAAJ&hl=fr" target="_blank"><img src="icons/scholar.png" alt="Google scholar" width=40></a>
+   <a href="https://orcid.org/0000-0003-2896-4250" target="_blank"><img src="icons/orcid.png" alt="ORCID" width=40></a>
    <a href="https://pierre-veron.github.io/CV.html"><img src="icons/resume.png" alt="CV" width=40></a>
     <a href="https://github.com/pierre-veron"><img src="icons/github.png" alt="Github" width=40></a>
 </p>
