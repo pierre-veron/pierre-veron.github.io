@@ -10,7 +10,7 @@
 </p>
 
 ## About
-Hi! I'm Pierre Veron, PhD student in evolution and ecology at Institute of Biology of École Normale Supérieure ([IBENS](https://www.ibens.ens.fr/)) and at Institute for the Diversity, Ecology and Evolution of the Living World of the Université Paris Saclay ([IDEEV](https://www.ideev.universite-paris-saclay.fr/en/)). 
+Hi! I'm Pierre Veron, third year PhD student in evolution and ecology at Institute of Biology of École Normale Supérieure ([IBENS](https://www.ibens.ens.fr/)) and at Institute for the Diversity, Ecology and Evolution of the Living World of the Université Paris Saclay ([IDEEV](https://www.ideev.universite-paris-saclay.fr/en/)). 
 
 I'm interested in speciation research, my work focuses on theoretical predictions on the link between microevolution and macroevolution. I'm co-supervised by 
 * Hélène Morlon ([Biodiv team](https://www.phyloeco.bio.ens.psl.eu/))
@@ -19,7 +19,7 @@ I'm interested in speciation research, my work focuses on theoretical prediction
 ![IBENS, ENS-PSL, ESE, UPSaclay](icons/institutions.png)
 
 ## My work 
-I am working of theoretical modelisation of the different steps of speciation, with the aim to understand which microevolutionary processes modulate the rates of speciation in the living world. 
+I am working on modelisation of the different steps of speciation, with the aim to understand which microevolutionary processes modulate the rates of speciation in the living world. 
 
 <img src="fig/summary_spec_steps.PNG" alt="Summary of the speciation steps">
 
@@ -84,4 +84,4 @@ Veron, P., Rozanski, R., Marques, V., Joost, S., Deschez, M. E., Trenkel, V. M.,
 
 ---
 
-Last update: 2024/09/12
+Last update: 2024/10/03
