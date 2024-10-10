@@ -16,7 +16,12 @@ I'm interested in speciation research, my work focuses on theoretical prediction
 * Hélène Morlon ([Biodiv team](https://www.phyloeco.bio.ens.psl.eu/))
 * Tatiana Giraud ([Evolutionary Genetics and Ecology team](https://www.ideev.universite-paris-saclay.fr/en/equipes/ese-gee/)).
 
-![IBENS, ENS-PSL, ESE, UPSaclay](icons/institutions.png)
+<p align="center">
+   <a href="https://www.ibens.bio.ens.psl.eu/?lang=en" target="_blank"><img src="icons/ibens.png" alt="IBENS" height=70></a>
+   <a href="https://www.ens.psl.eu/" target="_blank"><img src="icons/ens-psl.png" alt="ENS-PSL" height=70></a>
+    <a href="https://www.ideev.universite-paris-saclay.fr/equipes/ese-gee/" target="_blank"><img src="icons/ese.jpg" alt="ESE" height=70></a>
+   <a href="https://www.universite-paris-saclay.fr/a-propos/"><img src="icons/logo_psaclay.png" alt="CV" height=70></a>
+</p>
 
 ## My work 
 I am working on modelisation of the different steps of speciation, with the aim to understand which microevolutionary processes modulate the rates of speciation in the living world. 
