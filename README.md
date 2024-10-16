@@ -36,10 +36,10 @@ Additionnaly, I work on more macroevolutionnary models such as the protracted bi
 
 <img src="fig/influence_parameters_speciation.PNG" alt="Influence on the speciation rate">
 
-_Most influent steps of the speciation on the overall speciation rate._
+_Most important steps of the speciation on the overall speciation rate._
 
 ## Publications
-Veron, P., Andréoletti, J., Giraud, T., & Morlon, H. (2024). **Speciation completion rates have limited impact on macroevolutionary diversification**. _bioRxiv preprint_. doi: [10.1101/2024.07.01.601000](https://doi.org/10.1101/2024.07.01.601000) /  [Manuscript](docs/PBD_analog_manuscript.pdf) / [Sup. mat.](docs/PBD_analog_supp_mat.pdf)
+Veron, P., Andréoletti, J., Giraud, T., & Morlon, H. (2024). **Speciation completion rates have limited impact on macroevolutionary diversification**. _Philosophical Transactions of the Royal Society B_, in press. See our preprint: doi: [10.1101/2024.07.01.601000](https://doi.org/10.1101/2024.07.01.601000) /  [Manuscript](docs/PBD_analog_manuscript.pdf) / [Sup. mat.](docs/PBD_analog_supp_mat.pdf)
  
 
 Morlon, H., Andréoletti, J., Barido-Sottani, J., Lambert, S., Perez-Lamarque, B., Quintero, I., Senderov, V. and Veron, P. (2024). **Phylogenetic Insights into Diversification**. _Annual Review of Ecology, Evolution, and Systematics, 55_, 1–21. doi: [10.1146/annurev-ecolsys-102722-020508](https://doi.org/10.1146/annurev-ecolsys-102722-020508)
