@@ -81,12 +81,13 @@ Veron, P., Rozanski, R., Marques, V., Joost, S., Deschez, M. E., Trenkel, V. M.,
 * Mathematical Population Dynamics, Ecology and Evolution (MPDEE 2023) - April 24, 2023 - CIRM, Marseille, France
 
 ## Contact 
-:email: pveron [at] bio.ens.psl [dot] eu 
+📧 pveron [at] bio.ens.psl [dot] eu 
 
 ## Misc
+* I am a member of the [MMB chair](http://www.cmap.polytechnique.fr/chaire-mmb/index.html), an interdisciplinary research group on the modelling and mathematics of biology, supported by the École polytechnique and the Muséum national d'histoire naturelle in Paris
 * I'm interested in photography, my online portfolio can be found here: [https://pierreveron.myportfolio.com/](https://pierreveron.myportfolio.com/) 
 * I have been co-organizing the [Astromaths](https://www.fondation-blaise-pascal.org/nos-actions/les-projets-de-la-fondation/le-camp-astromaths/) camp for several years, a summer school in astronomy in mathematics.  
 
 ---
 
-Last update: 2024/10/16
+Last update: 2025/01/07
