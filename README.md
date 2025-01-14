@@ -79,6 +79,7 @@ Veron, P., Rozanski, R., Marques, V., Joost, S., Deschez, M. E., Trenkel, V. M.,
 
 ## Talks and posters 
 * Journées IDEEV (Institut Diversité Écologie et Évolution du Vivant) - January, 13, 2025 - Université Paris-Saclay, Gif-sur-Yvette, France
+* Seminar of ecology and evolution - December, 6, 2024 - IBENS Paris, France
 * Stochastic Processes in Evolutionary Biology ([poster](https://hub.bio.ens.psl.eu/index.php/s/Kb8gWELjzJQapys/download/poster.pdf)) -  Mai, 20, 2024 - CIRM, Marseille, France
 * Perspectives on speciation ([poster](https://hub.bio.ens.psl.eu/index.php/s/Kb8gWELjzJQapys/download/poster.pdf)) - April, 11, 2024 - London, UK
 * École de printemps de la chaire MMB - June, 12, 2023 - Aussois, France
