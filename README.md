@@ -1,5 +1,5 @@
 # Pierre Veron
-[About](#about) · [My work](#my-work) · [Publications](#publications) · [Teaching](#teaching) · [Talks and posters](#talks-and-posters) · [Contact](#contact) · [Misc](#misc) · [CV](https://pierre-veron.github.io/files/CV.pdf)
+[About](#about) · [My work](#my-work) · [Publications](#publications) · [Teaching](#teaching) · [Talks and posters](#talks-and-posters) · [Contact](#contact) · [Misc](#misc) · [CV](https://pierre-veron.github.io/docs/CV.pdf)
 
 <p align="center">
    <a href="https://scholar.google.com/citations?user=zMhd4LMAAAAJ&hl=fr" target="_blank"><img src="icons/scholar.png" alt="Google scholar" width=40></a>
@@ -25,7 +25,7 @@ I'm interested in speciation research, my work focuses on theoretical prediction
    <a href="https://www.universite-paris-saclay.fr/a-propos/"><img src="icons/logo_psaclay.png" alt="CV" height=70></a>
 </p>
 
-My full résumé can be found [here](https://pierre-veron.github.io/files/CV.pdf).
+My full résumé can be found [here](https://pierre-veron.github.io/docs/CV.pdf).
 
 ## My work 
 I am working on modelisation of the different steps of speciation, with the aim to understand which microevolutionary processes modulate the rates of speciation in the living world. 

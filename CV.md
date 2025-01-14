@@ -1,4 +1,4 @@
-PDF version [here](https://pierre-veron.github.io/files/here.pdf).
+PDF version [here](https://pierre-veron.github.io/docs/CV.pdf).
 
 Current position
 ======
@@ -17,7 +17,7 @@ Internships
 __2022__ Master thesis at [IFREMER](https://en.ifremer.fr/) (French research institute for ocean sciences), Nantes, France. 
 > Spatial multicomponent analysis of local and regional fish biodiversity from environmental DNA. Supervision Camille Albouy. 
 >
-> Article published in 2023 in [ICES Journal of Marine science](https://doi.org/10.1093/icesjms/fsad139), master thesis [here](https://pierre-veron.github.io/files/PDM_Veron.pdf)
+> Article published in 2023 in [ICES Journal of Marine science](https://doi.org/10.1093/icesjms/fsad139), master thesis [here](https://pierre-veron.github.io/docs/PDM_Veron.pdf)
 
 __2020__ Research internship at [CMAP](https://portail.polytechnique.edu/cmap/fr/page-daccueil) (Center of applied mathematics of École polytechnique), Palaiseau, France. 
 > Development of a stochastic ecological model to explain the [paradox of the plankton](https://en.wikipedia.org/wiki/Paradox_of_the_plankton). Supervision Sylvie Méléard and Régis Ferrière.
@@ -33,7 +33,7 @@ __2020 - 2022__ MSc in [Environmental sciences and engineering](https://www.epfl
 > Studied water, soil and ecosystem engineering. 
 > Semester projects:
 > * Channel modelling in the Three-lakes region, Switzerland.
-> * Study of variability and sources of suspended particles in Lake Geneva report [here](https://pierre-veron.github.io/files/Lake_geneva_SemProject_Veron.pdf).
+> * Study of variability and sources of suspended particles in Lake Geneva report [here](https://pierre-veron.github.io/docs/Lake_geneva_SemProject_Veron.pdf).
 
 __2017 - 2020__ 3<sup>rd</sup> year Bachelor and Master at [École polytechnique](https://www.polytechnique.edu/en), Palaiseau, France.
 > _Cursus ingénieur polytechnicien_, specialization in sciences for the environment
