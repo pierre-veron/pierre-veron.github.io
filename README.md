@@ -1,5 +1,5 @@
 # Pierre Veron
-[About](#about) · [My work](#my-work) · [Publications](#publications) · [Teaching](#teaching) · [Talks and posters](#talks-and-posters) · [Contact](#contact) · [Misc](#misc)
+[About](#about) · [My work](#my-work) · [Publications](#publications) · [Teaching](#teaching) · [Talks and posters](#talks-and-posters) · [Contact](#contact) · [Misc](#misc) · [CV](https://pierre-veron.github.io/files/CV.pdf)
 
 <p align="center">
    <a href="https://scholar.google.com/citations?user=zMhd4LMAAAAJ&hl=fr" target="_blank"><img src="icons/scholar.png" alt="Google scholar" width=40></a>
@@ -9,8 +9,10 @@
     <a href="mailto:pveron@bio.ens.psl.eu"><img src="icons/email.png" alt="E-mail" width=40></a>
 </p>
 
+
+
 ## About
-Hi! I'm Pierre Veron, third year PhD student in evolution and ecology at Institute of Biology of École Normale Supérieure ([IBENS](https://www.ibens.ens.fr/)) and at Institute for the Diversity, Ecology and Evolution of the Living World of the Université Paris Saclay ([IDEEV](https://www.ideev.universite-paris-saclay.fr/en/)). 
+I'm Pierre Veron, third year PhD student in evolution and ecology at Institute of Biology of École Normale Supérieure ([IBENS](https://www.ibens.ens.fr/)) and at Institute for the Diversity, Ecology and Evolution of the Living World of the Université Paris Saclay ([IDEEV](https://www.ideev.universite-paris-saclay.fr/en/)). 
 
 I'm interested in speciation research, my work focuses on theoretical predictions on the link between microevolution and macroevolution. I'm co-supervised by 
 * Hélène Morlon ([Biodiv team](https://www.phyloeco.bio.ens.psl.eu/))
@@ -22,6 +24,8 @@ I'm interested in speciation research, my work focuses on theoretical prediction
     <a href="https://www.ideev.universite-paris-saclay.fr/equipes/ese-gee/" target="_blank"><img src="icons/ese.jpg" alt="ESE" height=70></a>
    <a href="https://www.universite-paris-saclay.fr/a-propos/"><img src="icons/logo_psaclay.png" alt="CV" height=70></a>
 </p>
+
+My full résumé can be found [here](https://pierre-veron.github.io/files/CV.pdf).
 
 ## My work 
 I am working on modelisation of the different steps of speciation, with the aim to understand which microevolutionary processes modulate the rates of speciation in the living world. 
