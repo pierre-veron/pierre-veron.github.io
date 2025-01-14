@@ -61,7 +61,7 @@ Veron, P., Rozanski, R., Marques, V., Joost, S., Deschez, M. E., Trenkel, V. M.,
 > The course covers differential equations, dynamical systems, elementary linear algebra, Markov chains, probabilities and statistics. The course website I created can be found [here](https://codimd.math.cnrs.fr/s/hmbX8GuA4#).
 
 ### Computational biology
-> Master 1 IMaLiS | École normale supérieure - PSL, IBENS | Professors Pierre Vincens and Morgane Thomas-Chollier
+> Licence 3 biology | École normale supérieure - PSL, IBENS | Professors Pierre Vincens and Morgane Thomas-Chollier
 > 
 >The aim of this course is to introduce students to bioinformatics, by consolidating their knowledge in fundamental principles, as well as opening to current research topics in computational biology.
 >The course includes programming (`Python` and `R`) applied to biology, and courses with practicals in computational biology. The program covers:
@@ -74,6 +74,7 @@ Veron, P., Rozanski, R., Marques, V., Joost, S., Deschez, M. E., Trenkel, V. M.,
 
 
 ## Talks and posters 
+* Journées IDEEV (Institut Diversité Écologie et Évolution du Vivant) - January, 13, 2025 - Université Paris-Saclay, Gif-sur-Yvette, France
 * Stochastic Processes in Evolutionary Biology ([poster](https://hub.bio.ens.psl.eu/index.php/s/Kb8gWELjzJQapys/download/poster.pdf)) -  Mai, 20, 2024 - CIRM, Marseille, France
 * Perspectives on speciation ([poster](https://hub.bio.ens.psl.eu/index.php/s/Kb8gWELjzJQapys/download/poster.pdf)) - April, 11, 2024 - London, UK
 * École de printemps de la chaire MMB - June, 12, 2023 - Aussois, France
@@ -90,4 +91,4 @@ Veron, P., Rozanski, R., Marques, V., Joost, S., Deschez, M. E., Trenkel, V. M.,
 
 ---
 
-Last update: 2025/01/07
+Last update: 2025/01/14
