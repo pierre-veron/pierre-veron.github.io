@@ -16,13 +16,13 @@ I'm Pierre Veron, third year PhD student in evolution and ecology at Institute o
 
 I'm interested in speciation research, my work focuses on theoretical predictions on the link between microevolution and macroevolution. I'm co-supervised by 
 * Hélène Morlon ([Biodiv team](https://www.phyloeco.bio.ens.psl.eu/))
-* Tatiana Giraud ([Evolutionary Genetics and Ecology team](https://www.ideev.universite-paris-saclay.fr/en/equipes/ese-gee/)).
+* Tatiana Giraud ([Evolutionary Genetics and Ecology team](https://www.ese.universite-paris-saclay.fr/en/evolutionary-genetics-and-ecology/)).
 
 <p align="center">
    <a href="https://www.ibens.bio.ens.psl.eu/?lang=en" target="_blank"><img src="icons/ibens.png" alt="IBENS" height=70></a>
-   <a href="https://www.ens.psl.eu/" target="_blank"><img src="icons/ens-psl.png" alt="ENS-PSL" height=70></a>
-    <a href="https://www.ideev.universite-paris-saclay.fr/equipes/ese-gee/" target="_blank"><img src="icons/ese.jpg" alt="ESE" height=70></a>
-   <a href="https://www.universite-paris-saclay.fr/a-propos/"><img src="icons/logo_psaclay.png" alt="CV" height=70></a>
+   <a href="https://www.ens.psl.eu/en" target="_blank"><img src="icons/ens-psl.png" alt="ENS-PSL" height=70></a>
+    <a href="https://www.ese.universite-paris-saclay.fr/en/homepage/" target="_blank"><img src="icons/ese.jpg" alt="ESE" height=70></a>
+   <a href="https://www.universite-paris-saclay.fr/en"><img src="icons/logo_psaclay.png" alt="CV" height=70></a>
 </p>
 
 My full résumé can be found [here](https://pierre-veron.github.io/docs/CV.pdf).
@@ -96,4 +96,4 @@ Veron, P., Rozanski, R., Marques, V., Joost, S., Deschez, M. E., Trenkel, V. M.,
 
 ---
 
-Last update: 2025/01/14
+Last update: 2025/02/11
