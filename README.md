@@ -1,13 +1,14 @@
 # Pierre Veron
-[About](#about) · [My work](#my-work) · [Publications](#publications) · [Teaching](#teaching) · [Talks and posters](#talks-and-posters) · [Contact](#contact) · [Misc](#misc) · [CV](https://pierre-veron.github.io/docs/CV.pdf)
-
 <p align="center">
+   <a href="https://cv.hal.science/pierre-veron"><img src="icons/HAL.png" alt="CV HAL" width=40></a>
    <a href="https://scholar.google.com/citations?user=zMhd4LMAAAAJ&hl=fr" target="_blank"><img src="icons/scholar.png" alt="Google scholar" width=40></a>
    <a href="https://orcid.org/0000-0003-2896-4250" target="_blank"><img src="icons/orcid.png" alt="ORCID" width=40></a>
-   <a href="https://pierre-veron.github.io/CV.html"><img src="icons/resume.png" alt="CV" width=40></a>
     <a href="https://github.com/pierre-veron"><img src="icons/github.jpg" alt="Github" width=40></a>
-    <a href="mailto:pveron@bio.ens.psl.eu"><img src="icons/email.png" alt="E-mail" width=40></a>
 </p>
+
+[About](#about) · [My work](#my-work) · [Publications](#publications) · [Teaching](#teaching) · [Talks and posters](#talks-and-posters) · [Contact](#contact) · [Misc](#misc) · [CV](https://pierre-veron.github.io/docs/CV.pdf)
+
+
 
 
 
@@ -96,4 +97,4 @@ Veron, P., Rozanski, R., Marques, V., Joost, S., Deschez, M. E., Trenkel, V. M.,
 
 ---
 
-Last update: 2025/02/11
+Last update: 2025/03/07
