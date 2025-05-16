@@ -13,7 +13,7 @@
 
 
 ## About
-I'm Pierre Veron, third year PhD student in evolution and ecology at Institute of Biology of École Normale Supérieure ([IBENS](https://www.ibens.ens.fr/)) and at Institute for the Diversity, Ecology and Evolution of the Living World of the Université Paris Saclay ([IDEEV](https://www.ideev.universite-paris-saclay.fr/en/)). 
+I'm Pierre Veron, third year PhD student in evolution and ecology at Institute of Biology of École Normale Supérieure ([IBENS](https://www.ibens.ens.fr/)) and at Institute for the Diversity, Ecology and Evolution of the Living World of the Université Paris Saclay ([IDEEV](https://www.ideev.universite-paris-saclay.fr/en/)). My PhD is funded by the [École polytechnique](https://www.polytechnique.edu/en) and the [Institut des Mathématiques pour la Planète Terre](https://impt.math.cnrs.fr/).
 
 I'm interested in speciation research, my work focuses on theoretical predictions on the link between microevolution and macroevolution. I'm co-supervised by 
 * Hélène Morlon ([Biodiv team](https://www.phyloeco.bio.ens.psl.eu/))
@@ -50,7 +50,7 @@ Veron, P., Andréoletti, J., Giraud, T., & Morlon, H. (2024). **Speciation compl
 Morlon, H., Andréoletti, J., Barido-Sottani, J., Lambert, S., Perez-Lamarque, B., Quintero, I., Senderov, V. and Veron, P. (2024). **Phylogenetic Insights into Diversification**. _Annual Review of Ecology, Evolution, and Systematics, 55_, 1–21. doi: [10.1146/annurev-ecolsys-102722-020508](https://doi.org/10.1146/annurev-ecolsys-102722-020508)
  
 
-Veron, P., Rozanski, R., Marques, V., Joost, S., Deschez, M. E., Trenkel, V. M., Lorance, P., Valentini, A., Polanco, A. F., Pellissier, L., Eme, D. and Albouy, C. (2023). **Environmental DNA complements scientific trawling in surveys of marine fish biodiversity**. _ICES Journal of Marine Science, 80_(8), 2150–2165. doi: [10.1093/icesjms/fsad139](https://doi.org/10.1093/icesjms/fsad139) / [PDF](docs/Veron2023eDNA.pdf)
+Veron, P., Rozanski, R., Marques, V., Joost, S., Deschez, M. E., Trenkel, V. M., Lorance, P., Valentini, A., Polanco, A. F., Pellissier, L., Eme, D. and Albouy, C. (2023). **Environmental DNA complements scientific trawling in surveys of marine fish biodiversity**. _ICES Journal of Marine Science, 80_(8), 2150–2165. doi: [10.1093/icesjms/fsad139](https://doi.org/10.1093/icesjms/fsad139) / [PDF](docs/Veron2023eDNA.pdf) / [Sup. mat.](docs/Veron2023eDNA_suppmat.pdf)
  
 
 
@@ -79,6 +79,7 @@ Veron, P., Rozanski, R., Marques, V., Joost, S., Deschez, M. E., Trenkel, V. M.,
 
 
 ## Talks and posters 
+* Congrès des Jeunes Chercheur·e·s du Muséum - May 16, 2025 - Muséum National d'Histoire Naturelle, Paris, France
 * Journées IDEEV (Institut Diversité Écologie et Évolution du Vivant) - January, 13, 2025 - Université Paris-Saclay, Gif-sur-Yvette, France
 * Seminar of ecology and evolution - December, 6, 2024 - IBENS Paris, France
 * Stochastic Processes in Evolutionary Biology ([poster](https://hub.bio.ens.psl.eu/index.php/s/Kb8gWELjzJQapys/download/poster.pdf)) -  Mai, 20, 2024 - CIRM, Marseille, France
@@ -97,4 +98,4 @@ Veron, P., Rozanski, R., Marques, V., Joost, S., Deschez, M. E., Trenkel, V. M.,
 
 ---
 
-Last update: 2025/03/07
+Last update: 2025/05/16
