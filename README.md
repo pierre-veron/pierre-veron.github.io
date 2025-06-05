@@ -1,16 +1,25 @@
-# Pierre Veron
-<p align="center">
+# Pierre Veron 
+<table>
+    <tr>
+        <td><img src="pierre_veron_resized.png" width=200><p align="center">
    <a href="https://cv.hal.science/pierre-veron"><img src="icons/hal.png" alt="CV HAL" width=40></a>
    <a href="https://scholar.google.com/citations?user=zMhd4LMAAAAJ&hl=fr" target="_blank"><img src="icons/scholar.png" alt="Google scholar" width=40></a>
    <a href="https://orcid.org/0000-0003-2896-4250" target="_blank"><img src="icons/orcid.png" alt="ORCID" width=40></a>
     <a href="https://github.com/pierre-veron"><img src="icons/github.jpg" alt="Github" width=40></a>
 </p>
-
-[About](#about) · [My work](#my-work) · [Publications](#publications) · [Teaching](#teaching) · [Talks and posters](#talks-and-posters) · [Contact](#contact) · [Misc](#misc) · [CV](https://pierre-veron.github.io/docs/CV.pdf)
-
-
-
-
+        </td>
+        <td><ul>
+            <li><a href="#about">About</a></li>
+            <li><a href="#my-work">My work</a></li>
+            <li><a href="#publications">Publications</a></li>
+            <li><a href="#teaching">Teaching</a></li>
+            <li><a href="#talks-and-posters">Talks and posters</a></li>
+            <li><a href="#contact">Contact</a></li>
+            <li><a href="#misc">Misc</a></li>
+            <li><a href="https://pierre-veron.github.io/docs/CV.pdf">CV</a></li>
+        </ul></td>
+    </tr>
+</table>
 
 ## About
 I'm Pierre Veron, third year PhD student in evolution and ecology at Institute of Biology of École Normale Supérieure ([IBENS](https://www.ibens.ens.fr/)) and at Institute for the Diversity, Ecology and Evolution of the Living World of the Université Paris Saclay ([IDEEV](https://www.ideev.universite-paris-saclay.fr/en/)). My PhD is funded by the [École polytechnique](https://www.polytechnique.edu/en) and the [Institut des Mathématiques pour la Planète Terre](https://impt.math.cnrs.fr/).
