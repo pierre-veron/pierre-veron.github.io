@@ -64,38 +64,34 @@ Veron, P., Rozanski, R., Marques, V., Joost, S., Deschez, M. E., Trenkel, V. M.,
 
 
 ## Teaching 
-### Adaptive dynamics
-> Master 2 IMaLiS 2022 & 2023 | École normale supérieure - PSL, IBENS | Professor Régis Ferrière
->
-> Adaptive dynamics modeling has become the dominant theoretical framework for "Darwinian ecology", i.e. the investigation of the ecological causes and consequences of evolution. The course will present the key concepts underlying the adaptive dynamics approach: environmental feedback loop, invasion fitness, evolutionary singularity, evolutionary stability, evolutionary branching, evolutionary suicide, pairwise invasibility plots and canonical equations. The general framework will be applied to study the eco-evolutionary dynamics of populations competing for resources, predator-prey interactions, and mutualistic systems. Hands-on tutorial sessions will aim at simulations of specific examples.
+**2024 – 2025**
+* **Adaptive dynamics**, *exercises sessions* –  Master 2 IMaLiS*.
+* **Maths training**, *courses* - L3 and M1 students*. The course covers differential equations, dynamical systems, elementary linear algebra, Markov chains, probabilities and statistics. The course website I created can be found [here](https://codimd.math.cnrs.fr/s/hmbX8GuA4#).
+* **Open Science**, *projects* –  Licence 3*
+* **Python for biologists**, *exercises sessions* – Licence 3*.
 
-### Maths training for L3 and M1 students
-> Master IMaLiS | École normale supérieure - PSL, IBENS | Professor Amaury Lambert 
-> 
-> The course covers differential equations, dynamical systems, elementary linear algebra, Markov chains, probabilities and statistics. The course website I created can be found [here](https://codimd.math.cnrs.fr/s/hmbX8GuA4#).
+**2023 –  2024**
+* **Adaptive dynamics**, *exercises sessions* –  Master 2 IMaLiS*.
+* **Maths training**, *courses* –  L3 and M1 students*. 
+* **Biostatistics**, *projects* –  Licence 3*.
+* **Computational biology**, *exercises sessions* –  Licence 3*. 
 
-### Computational biology
-> Licence 3 biology | École normale supérieure - PSL, IBENS | Professors Pierre Vincens and Morgane Thomas-Chollier
-> 
->The aim of this course is to introduce students to bioinformatics, by consolidating their knowledge in fundamental principles, as well as opening to current research topics in computational biology.
->The course includes programming (`Python` and `R`) applied to biology, and courses with practicals in computational biology. The program covers:
-> * knowledge of different data structures,
-> * object-oriented programming (small course material),
-> * modelling tools: random variables and Markov chains with Python, stochastic processes, numerical integration applied to biology (small course material),
-> * introduction to biopython package for bioinformatics (small course material),
-> * manipulation of databases using `panda`.
-> * project of biostatistics in `R`
+**2022 –  2023**
+* **Adaptive dynamics**, *exercises sessions* –  Master 2 IMaLiS*.
+* **Computational biology**, *exercises sessions* –  Licence 3*. 
 
+\* = course given at the biology department, École normale supérieure - PSL
 
 ## Talks and posters 
-* Congrès des Jeunes Chercheur·e·s du Muséum - May 16, 2025 - Muséum National d'Histoire Naturelle, Paris, France
-* Journées IDEEV (Institut Diversité Écologie et Évolution du Vivant) - January, 13, 2025 - Université Paris-Saclay, Gif-sur-Yvette, France
-* Seminar of ecology and evolution - December, 6, 2024 - IBENS Paris, France
-* Stochastic Processes in Evolutionary Biology ([poster](https://hub.bio.ens.psl.eu/index.php/s/Kb8gWELjzJQapys/download/poster.pdf)) -  Mai, 20, 2024 - CIRM, Marseille, France
-* Perspectives on speciation ([poster](https://hub.bio.ens.psl.eu/index.php/s/Kb8gWELjzJQapys/download/poster.pdf)) - April, 11, 2024 - London, UK
-* École de printemps de la chaire MMB - June, 12, 2023 - Aussois, France
-* Congrès des Jeunes Chercheur·e·s du Muséum - May 04, 2023 - Muséum National d'Histoire Naturelle, Paris, France
-* Mathematical Population Dynamics, Ecology and Evolution (MPDEE 2023) - April 24, 2023 - CIRM, Marseille, France
+* [*upcoming*] ESEB 2025 (talk and poster) – August 17, 2025 – Barcelona, Spain 
+* Congrès des Jeunes Chercheur·e·s du Muséum –  May 16, 2025 –  Muséum National d'Histoire Naturelle, Paris, France
+* Journées IDEEV (Institut Diversité Écologie et Évolution du Vivant) –  January, 13, 2025 –  Université Paris-Saclay, Gif-sur-Yvette, France
+* Seminar of ecology and evolution –  December, 6, 2024 –  IBENS Paris, France
+* Stochastic Processes in Evolutionary Biology ([poster](https://hub.bio.ens.psl.eu/index.php/s/Kb8gWELjzJQapys/download/poster.pdf)) –   Mai, 20, 2024 –  CIRM, Marseille, France
+* Perspectives on speciation ([poster](https://hub.bio.ens.psl.eu/index.php/s/Kb8gWELjzJQapys/download/poster.pdf)) –  April, 11, 2024 –  London, UK
+* École de printemps de la chaire MMB –  June, 12, 2023 –  Aussois, France
+* Congrès des Jeunes Chercheur·e·s du Muséum –  May 04, 2023 –  Muséum National d'Histoire Naturelle, Paris, France
+* Mathematical Population Dynamics, Ecology and Evolution (MPDEE 2023) –  April 24, 2023 –  CIRM, Marseille, France
 
 ## Contact 
 📧 pveron [at] bio.ens.psl [dot] eu 
@@ -105,6 +101,6 @@ Veron, P., Rozanski, R., Marques, V., Joost, S., Deschez, M. E., Trenkel, V. M.,
 * I'm interested in photography, my online portfolio can be found here: [https://pierreveron.myportfolio.com/](https://pierreveron.myportfolio.com/) 
 * I have been co-organizing the [Astromaths](https://www.fondation-blaise-pascal.org/nos-actions/les-projets-de-la-fondation/le-camp-astromaths/) camp for several years, a summer school in astronomy in mathematics.  
 
----
+–
 
-Last update: 2025/05/16
+Last update: 2025/07/24
