@@ -31,7 +31,7 @@ I'm interested in speciation research, my work focuses on theoretical prediction
 <p align="center">
    <a href="https://www.ibens.bio.ens.psl.eu/?lang=en" target="_blank"><img src="icons/ibens.png" alt="IBENS" height=70></a>
    <a href="https://www.ens.psl.eu/en" target="_blank"><img src="icons/ens-psl.png" alt="ENS-PSL" height=70></a>
-    <a href="https://www.ese.universite-paris-saclay.fr/en/homepage/" target="_blank"><img src="icons/ese.jpg" alt="ESE" height=70></a>
+    <a href="https://www.ese.universite-paris-saclay.fr/en/homepage/" target="_blank"><img src="icons/ese.png" alt="ESE" height=70></a>
    <a href="https://www.universite-paris-saclay.fr/en"><img src="icons/logo_psaclay.png" alt="CV" height=70></a>
 </p>
 
@@ -83,7 +83,7 @@ Veron, P., Rozanski, R., Marques, V., Joost, S., Deschez, M. E., Trenkel, V. M.,
 \* = course given at the biology department, École normale supérieure - PSL
 
 ## Talks and posters 
-* [*upcoming*] ESEB 2025 (talk and poster) – August 17, 2025 – Barcelona, Spain 
+* ESEB 2025 (talk and [poster](docs/Veron-et-al-2025-speciation-completion-rates_poster.pdf)) – August 17, 2025 – Barcelona, Spain 
 * Congrès des Jeunes Chercheur·e·s du Muséum –  May 16, 2025 –  Muséum National d'Histoire Naturelle, Paris, France
 * Journées IDEEV (Institut Diversité Écologie et Évolution du Vivant) –  January, 13, 2025 –  Université Paris-Saclay, Gif-sur-Yvette, France
 * Seminar of ecology and evolution –  December, 6, 2024 –  IBENS Paris, France
@@ -103,4 +103,4 @@ Veron, P., Rozanski, R., Marques, V., Joost, S., Deschez, M. E., Trenkel, V. M.,
 
 –
 
-Last update: 2025/07/24
+Last update: 2025/08/26
