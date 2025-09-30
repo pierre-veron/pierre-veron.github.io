@@ -9,14 +9,14 @@
 </p>
         </td>
         <td>
-            :wave: <a href="#about">About</a><br>
-            :computer: <a href="#my-work">My work</a><br>
-            :page_with_curl: <a href="#publications">Publications</a><br>
-            :teacher: <a href="#teaching">Teaching</a><br>
-            :speech_balloon: <a href="#talks-and-posters">Talks and posters</a><br>
-            :email: <a href="#contact">Contact</a><br>
-            :information_source: <a href="#misc">Misc</a><br>
-            :mortar_board: <a href="https://pierre-veron.github.io/docs/CV.pdf">CV</a><br>
+            <a href="#about">👋 About</a><br>
+            <a href="#my-work">💻 My work</a><br>
+            <a href="#publications">📃 Publications</a><br>
+            <a href="#teaching">🧑‍🏫 Teaching</a><br>
+            <a href="#talks-and-posters">💬 Talks and posters</a><br>
+            <a href="#contact">📧 Contact</a><br>
+            <a href="#misc">ℹ️ Misc</a><br>
+            <a href="https://pierre-veron.github.io/docs/CV.pdf">🎓 CV</a><br>
         </td>
     </tr>
 </table>
