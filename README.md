@@ -8,16 +8,16 @@
     <a href="https://github.com/pierre-veron"><img src="icons/github.jpg" alt="Github" width=40></a>
 </p>
         </td>
-        <td><ul>
-            <li><a href="#about">About</a></li>
-            <li><a href="#my-work">My work</a></li>
-            <li><a href="#publications">Publications</a></li>
-            <li><a href="#teaching">Teaching</a></li>
-            <li><a href="#talks-and-posters">Talks and posters</a></li>
-            <li><a href="#contact">Contact</a></li>
-            <li><a href="#misc">Misc</a></li>
-            <li><a href="https://pierre-veron.github.io/docs/CV.pdf">CV</a></li>
-        </ul></td>
+        <td>
+            :wave: <a href="#about">About</a><br>
+            :computer: <a href="#my-work">My work</a><br>
+            :page_with_curl: <a href="#publications">Publications</a><br>
+            :teacher: <a href="#teaching">Teaching</a><br>
+            :speech_balloon: <a href="#talks-and-posters">Talks and posters</a><br>
+            :email: <a href="#contact">Contact</a><br>
+            :information_source: <a href="#misc">Misc</a><br>
+            :mortar_board: <a href="https://pierre-veron.github.io/docs/CV.pdf">CV</a><br>
+        </td>
     </tr>
 </table>
 
@@ -87,7 +87,7 @@ Veron, P., Rozanski, R., Marques, V., Joost, S., Deschez, M. E., Trenkel, V. M.,
 * Congrès des Jeunes Chercheur·e·s du Muséum –  May 16, 2025 –  Muséum National d'Histoire Naturelle, Paris, France
 * Journées IDEEV (Institut Diversité Écologie et Évolution du Vivant) –  January, 13, 2025 –  Université Paris-Saclay, Gif-sur-Yvette, France
 * Seminar of ecology and evolution –  December, 6, 2024 –  IBENS Paris, France
-* Stochastic Processes in Evolutionary Biology ([poster](https://hub.bio.ens.psl.eu/index.php/s/Kb8gWELjzJQapys/download/poster.pdf)) –   Mai, 20, 2024 –  CIRM, Marseille, France
+* Stochastic Processes in Evolutionary Biology ([poster](https://hub.bio.ens.psl.eu/index.php/s/Kb8gWELjzJQapys/download/poster.pdf)) –   May, 20, 2024 –  CIRM, Marseille, France
 * Perspectives on speciation ([poster](https://hub.bio.ens.psl.eu/index.php/s/Kb8gWELjzJQapys/download/poster.pdf)) –  April, 11, 2024 –  London, UK
 * École de printemps de la chaire MMB –  June, 12, 2023 –  Aussois, France
 * Congrès des Jeunes Chercheur·e·s du Muséum –  May 04, 2023 –  Muséum National d'Histoire Naturelle, Paris, France
@@ -103,4 +103,4 @@ Veron, P., Rozanski, R., Marques, V., Joost, S., Deschez, M. E., Trenkel, V. M.,
 
 –
 
-Last update: 2025/08/26
+Last update: 2025/09/30
