@@ -103,4 +103,4 @@ Veron, P., Rozanski, R., Marques, V., Joost, S., Deschez, M. E., Trenkel, V. M.,
 
 –
 
-Last update: 2025/09/30. Photo © Klára Hlavatá 2025
+Last update: 2025/09/30. © Pierre Veron. Photo © Klára Hlavatá 2025.
