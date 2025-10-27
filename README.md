@@ -83,13 +83,14 @@ Veron, P., Rozanski, R., Marques, V., Joost, S., Deschez, M. E., Trenkel, V. M.,
 \* = course given at the biology department, École normale supérieure - PSL
 
 ## Talks and posters 
+* A multidimensional view of speciation: bridging micro and macro-evolution, CNRS Conférence Jacques Monod (talk) - October 21, 2025 - Roscoff, France
 * ESEB 2025 (talk and [poster](docs/Veron-et-al-2025-speciation-completion-rates_poster.pdf)) – August 17, 2025 – Barcelona, Spain 
 * Congrès des Jeunes Chercheur·e·s du Muséum –  May 16, 2025 –  Muséum National d'Histoire Naturelle, Paris, France
-* Journées IDEEV (Institut Diversité Écologie et Évolution du Vivant) –  January, 13, 2025 –  Université Paris-Saclay, Gif-sur-Yvette, France
+* Journées IDEEV (Institut Diversité Écologie et Évolution du Vivant) –  January 13, 2025 –  Université Paris-Saclay, Gif-sur-Yvette, France
 * Seminar of ecology and evolution –  December, 6, 2024 –  IBENS Paris, France
-* Stochastic Processes in Evolutionary Biology ([poster](https://hub.bio.ens.psl.eu/index.php/s/Kb8gWELjzJQapys/download/poster.pdf)) –   Mai, 20, 2024 –  CIRM, Marseille, France
-* Perspectives on speciation ([poster](https://hub.bio.ens.psl.eu/index.php/s/Kb8gWELjzJQapys/download/poster.pdf)) –  April, 11, 2024 –  London, UK
-* École de printemps de la chaire MMB –  June, 12, 2023 –  Aussois, France
+* Stochastic Processes in Evolutionary Biology ([poster](https://hub.bio.ens.psl.eu/index.php/s/Kb8gWELjzJQapys/download/poster.pdf)) –   Mai 20, 2024 –  CIRM, Marseille, France
+* Perspectives on speciation ([poster](https://hub.bio.ens.psl.eu/index.php/s/Kb8gWELjzJQapys/download/poster.pdf)) –  April 11, 2024 –  London, UK
+* École de printemps de la chaire MMB –  June 12, 2023 –  Aussois, France
 * Congrès des Jeunes Chercheur·e·s du Muséum –  May 04, 2023 –  Muséum National d'Histoire Naturelle, Paris, France
 * Mathematical Population Dynamics, Ecology and Evolution (MPDEE 2023) –  April 24, 2023 –  CIRM, Marseille, France
 
