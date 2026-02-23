@@ -53,7 +53,7 @@ Additionnaly, I work on more macroevolutionnary models such as the protracted bi
 _Most important steps of the speciation on the overall speciation rate._
 
 ## Publications
-Veron, P., Spire, A., Chave-Lucas, A., Giraud, T., & Morlon, H. (2026). **Rapid speciation in small populations challenges the dominance of ecological speciation**. _Preprint on bioRxiv_. doi [10.64898/2026.02.19.706750](https://doi.org/10.64898/2026.02.19.706750). 
+Veron, P., Spire, A., Chave-Lucas, A., Giraud, T., & Morlon, H. (2026). **Rapid speciation in small populations challenges the dominance of ecological speciation**. _Preprint on bioRxiv_. doi: [10.64898/2026.02.19.706750](https://doi.org/10.64898/2026.02.19.706750) / [PDF](docs/Veron_et_al2026_Rapid_speciation_preprint.pdf)
 
 Veron, P., Andréoletti, J., Giraud, T., & Morlon, H. (2024). **Speciation completion rates have limited impact on macroevolutionary diversification**. _Philosophical Transactions of the Royal Society B, 380_, 20230317. doi: [10.1098/rstb.2023.0317](https://doi.org/10.1098/rstb.2023.0317) /  [PDF](docs/veron-et-al-2025-speciation-completion-rates-have-limited-impact-on-macroevolutionary-diversification.pdf) / [Sup. mat.](docs/PBD_analog_supp_mat.pdf)
  
