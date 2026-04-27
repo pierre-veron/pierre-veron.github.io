@@ -24,6 +24,8 @@
 ## About
 I'm Pierre Veron, PhD student in evolution and ecology at Institute of Biology of École Normale Supérieure ([IBENS](https://www.ibens.ens.fr/)) and at Institute for the Diversity, Ecology and Evolution of the Living World of the Université Paris Saclay ([IDEEV](https://www.ideev.universite-paris-saclay.fr/en/)). My PhD is funded by the [École polytechnique](https://www.polytechnique.edu/en) and the [Institut des Mathématiques pour la Planète Terre](https://impt.math.cnrs.fr/).
 
+My PhD defense will take place on *Thursday, 25th June at 2pm at IBENS* (46 rue d'Ulm, Paris). 
+
 I'm interested in speciation research, my work focuses on theoretical predictions on the link between microevolution and macroevolution. I'm co-supervised by 
 * Hélène Morlon ([Biodiv team](https://www.phyloeco.bio.ens.psl.eu/))
 * Tatiana Giraud ([Evolutionary Genetics and Ecology team](https://www.ese.universite-paris-saclay.fr/en/evolutionary-genetics-and-ecology/)).
