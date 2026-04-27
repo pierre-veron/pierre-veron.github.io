@@ -1,5 +1,5 @@
 # Soutenance de thèse de Pierre Veron
-[Français](##en-français) | [English](##in-english)
+[Français](https://pierre-veron.github.io/phd_defense#en-fran%C3%A7ais) | [English](https://pierre-veron.github.io/phd_defense#in-english)
 
 ## En français
 **Fossé micro–macro dans la recherche sur la spéciation : identifier les processus micro-évolutifs qui expliquent les différences de diversification entre lignées**
