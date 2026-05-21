@@ -26,8 +26,7 @@ Dans cette thèse, je souligne que le lien micro–macro dépend du scénario et
 * Tatiana Giraud, *Directrice de recherche, Université Paris-Saclay*. Directrice de thèse. 
 
 ## In English
-**Bridging the micro–macro gap in speciation research: identifying microevolutionary processes that explain differences in diversification between lineages
-**
+**Bridging the micro–macro gap in speciation research: identifying microevolutionary processes that explain differences in diversification between lineages**
 
 **Time and place.** Thursday, June 25th, 2pm. Salle Favard, Institut de biologie de l'ENS, 46 rue d'Ulm, Paris. 
 
