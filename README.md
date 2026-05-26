@@ -17,6 +17,7 @@
             <a href="#contact">📧 Contact</a><br>
             <a href="#misc">ℹ️ Misc</a><br>
             <a href="https://pierre-veron.github.io/docs/CV.pdf">🎓 CV</a><br>
+            <a href="https://pierre-veron.github.io/docs/CV_francais.pdf">🎓 CV (en français)</a><br>
         </td>
     </tr>
 </table>
