@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+UID:2026-05-26T07:52:46.760Z@calendarlinkgenerator.com
+DTSTAMP:20260526T075246Z
+DTSTART:20260625T120000Z
+DTEND:20260625T160000Z
+SUMMARY:Pierre Veron's PhD defense
+DESCRIPTION:<p><a target="_blank" rel="noopener noreferrer nofollow" class="text-blue-600 underline" href="https://pierre-veron.github.io/phd_defense">https://pierre-veron.github.io/phd_defense</a></p><p></p>
+LOCATION:Salle Favard. IBENS, 46 rue d'Ulm, 75005 Paris
+END:VEVENT
+END:VCALENDAR
