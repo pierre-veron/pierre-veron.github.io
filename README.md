@@ -110,6 +110,9 @@ Veron, P., Rozanski, R., Marques, V., Joost, S., Deschez, M. E., Trenkel, V. M.,
 * I'm interested in photography, my online portfolio can be found here: [https://pierreveron.myportfolio.com/](https://pierreveron.myportfolio.com/) 
 * I have been co-organizing the [Astromaths](https://www.fondation-blaise-pascal.org/nos-actions/les-projets-de-la-fondation/le-camp-astromaths/) camp for several years, a summer school in astronomy in mathematics.  
 
+I signed the [manifesto of conscientious objection](https://atecopol.hypotheses.org/13082) against the use of generative IA in research. 
+<img src="icons/noIAg_small.png" alt="No IAg">
+
 –
 
 Last update: 2026/05/26. © Pierre Veron. Photo © Klára Hlavatá 2025.
