@@ -1,4 +1,4 @@
-# Pierre Veron 
+# Pierre Veron, PhD 
 <table>
     <tr>
         <td><img src="pierre_veron_resized.png" width=200><p align="center">
@@ -25,7 +25,7 @@
 ## About
 I'm Pierre Veron, PhD student in evolution and ecology at Institute of Biology of École Normale Supérieure ([IBENS](https://www.ibens.ens.fr/)) and at Institute for the Diversity, Ecology and Evolution of the Living World of the Université Paris Saclay ([IDEEV](https://www.ideev.universite-paris-saclay.fr/en/)). My PhD is funded by the [École polytechnique](https://www.polytechnique.edu/en) and the [Institut des Mathématiques pour la Planète Terre](https://impt.math.cnrs.fr/).
 
-ℹ️ My [PhD defense](https://pierre-veron.github.io/phd_defense) will take place on *Thursday, 25th June at 2pm at IBENS* (46 rue d'Ulm, Paris). 
+ℹ️ My [PhD defense](https://pierre-veron.github.io/phd_defense) took place on *Thursday, 25th June IBENS* (46 rue d'Ulm, Paris). A version of my thesis can be found [here](https://pierre-veron.github.io/docs/Pierre_Veron_thesis.pdf). 
 
 I'm interested in speciation research, my work focuses on theoretical predictions on the link between microevolution and macroevolution. I'm co-supervised by 
 * Hélène Morlon ([Biodiv team](https://www.phyloeco.bio.ens.psl.eu/))
@@ -103,7 +103,7 @@ Veron, P., Rozanski, R., Marques, V., Joost, S., Deschez, M. E., Trenkel, V. M.,
 * Mathematical Population Dynamics, Ecology and Evolution (MPDEE 2023) – April 24, 2023 –  CIRM, Marseille, France
 
 ## Contact 
-📧 pveron [at] bio.ens.psl [dot] eu 
+📧 pierreveron [dot] pro [at] proton [at] me
 
 ## Misc
 * I am a member of the [MMB chair](http://www.cmap.polytechnique.fr/chaire-mmb/index.html), an interdisciplinary research group on the modelling and mathematics of biology, supported by the École polytechnique and the Muséum national d'histoire naturelle in Paris
@@ -118,4 +118,4 @@ I signed the [manifesto of conscientious objection](https://atecopol.hypotheses.
 
 –
 
-Last update: 2026/05/26. © Pierre Veron. Photo © Klára Hlavatá 2025.
+Last update: 2026/06/29. © Pierre Veron. Photo © Klára Hlavatá 2025.
