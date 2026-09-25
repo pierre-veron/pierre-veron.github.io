@@ -25,7 +25,7 @@
 ## About
 I'm Pierre Veron, I obtained my PhD in evolution and ecology at Institute of Biology of École Normale Supérieure ([IBENS](https://www.ibens.ens.fr/)) and at Institute for the Diversity, Ecology and Evolution of the Living World of the Université Paris Saclay ([IDEEV](https://www.ideev.universite-paris-saclay.fr/en/)). My PhD is funded by the [École polytechnique](https://www.polytechnique.edu/en) and the [Institut des Mathématiques pour la Planète Terre](https://impt.math.cnrs.fr/).
 
-ℹ️ My [PhD defense](https://pierre-veron.github.io/phd_defense) took place on *Thursday, 25th June IBENS* (46 rue d'Ulm, Paris). A version of my thesis can be found [here](https://pierre-veron.github.io/docs/Pierre_Veron_thesis.pdf). 
+ℹ️ My [PhD defense](https://pierre-veron.github.io/phd_defense) took place on *Thursday, 25th June IBENS* (46 rue d'Ulm, Paris). My thesis is archived on HAL [here](https://theses.hal.science/tel-05763951).
 
 I'm interested in speciation research, my work focuses on theoretical predictions on the link between microevolution and macroevolution. I'm co-supervised by 
 * Hélène Morlon ([Biodiv team](https://www.phyloeco.bio.ens.psl.eu/))
@@ -118,4 +118,4 @@ I signed the [manifesto of conscientious objection](https://atecopol.hypotheses.
 
 –
 
-Last update: 2026/09/09. © Pierre Veron. Photo © Klára Hlavatá 2025.
+Last update: 2026/09/25. © Pierre Veron. Photo © Klára Hlavatá 2025.
