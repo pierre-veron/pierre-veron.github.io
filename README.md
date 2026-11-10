@@ -16,32 +16,25 @@
             <a href="#talks-and-posters">💬 Talks and posters</a><br>
             <a href="#contact">📧 Contact</a><br>
             <a href="#misc">ℹ️ Misc</a><br>
-            <a href="https://pierre-veron.github.io/docs/CV.pdf">🎓 Long academic CV</a><br>
-            <a href="https://pierre-veron.github.io/docs/CV_francais.pdf">🎓 Short CV (in French)</a><br>
+            <a href="https://pierre-veron.github.io/docs/CV_acad.pdf">🎓 Academic CV (English)</a><br>
+            <a href="https://pierre-veron.github.io/docs/CV_acad_FR.pdf">🎓 Academic CV (French)</a><br>
+            <a href="https://pierre-veron.github.io/docs/CV_francais.pdf">🎓 Short CV (French)</a><br>
         </td>
     </tr>
 </table>
 
 ## About
-I'm Pierre Veron, I obtained my PhD in evolution and ecology at Institute of Biology of École Normale Supérieure ([IBENS](https://www.ibens.ens.fr/)) and at Institute for the Diversity, Ecology and Evolution of the Living World of the Université Paris Saclay ([IDEEV](https://www.ideev.universite-paris-saclay.fr/en/)). My PhD is funded by the [École polytechnique](https://www.polytechnique.edu/en) and the [Institut des Mathématiques pour la Planète Terre](https://impt.math.cnrs.fr/).
+I am a post-doctoral researcher at the French National Institute of Health and Medical Research ([INSERM](https://www.inserm.fr/)). I am working on mathematical models of hepatitis C virus transmission and on the economic evaluation of intervention strategies, in the [PreViST](https://www.iame-research.center/?p=team-previst) team. 
 
-ℹ️ My [PhD defense](https://pierre-veron.github.io/phd_defense) took place on *Thursday, 25th June IBENS* (46 rue d'Ulm, Paris). My thesis is archived on HAL [here](https://theses.hal.science/tel-05763951).
+I obtained my PhD in evolution and ecology at Institute of Biology of École Normale Supérieure ([IBENS](https://www.ibens.ens.fr/)) and at Institute for the Diversity, Ecology and Evolution of the Living World of the Université Paris Saclay ([IDEEV](https://www.ideev.universite-paris-saclay.fr/en/)). 
 
-I'm interested in speciation research, my work focuses on theoretical predictions on the link between microevolution and macroevolution. I'm co-supervised by 
-* Hélène Morlon ([Biodiv team](https://www.phyloeco.bio.ens.psl.eu/))
-* Tatiana Giraud ([Evolutionary Genetics and Ecology team](https://www.ese.universite-paris-saclay.fr/en/evolutionary-genetics-and-ecology/)).
+My [PhD defense](https://pierre-veron.github.io/phd_defense) took place on *Thursday, 25th June IBENS* (46 rue d'Ulm, Paris). My thesis is archived on HAL [here](https://theses.hal.science/tel-05763951).
 
-<p align="center">
-   <a href="https://www.ibens.bio.ens.psl.eu/?lang=en" target="_blank"><img src="icons/ibens.png" alt="IBENS" height=70></a>
-   <a href="https://www.ens.psl.eu/en" target="_blank"><img src="icons/ens-psl.png" alt="ENS-PSL" height=70></a>
-    <a href="https://www.ese.universite-paris-saclay.fr/en/homepage/" target="_blank"><img src="icons/ese.png" alt="ESE" height=70></a>
-   <a href="https://www.universite-paris-saclay.fr/en"><img src="icons/logo_psaclay.png" alt="CV" height=70></a>
-</p>
 
-My full résumé can be found [here](https://pierre-veron.github.io/docs/CV.pdf).
+My full résumé can be found [here](https://pierre-veron.github.io/docs/CV_acad.pdf).
 
-## My work 
-I am working on modelisation of the different steps of speciation, with the aim to understand which microevolutionary processes modulate the rates of speciation in the living world. 
+## My PhD work 
+I worked on modelisation of the different steps of speciation, with the aim to understand which microevolutionary processes modulate the rates of speciation in the living world. 
 
 <img src="fig/summary_spec_steps.PNG" alt="Summary of the speciation steps">
 
@@ -91,6 +84,7 @@ Veron, P., Rozanski, R., Marques, V., Joost, S., Deschez, M. E., Trenkel, V. M.,
 \* = course given at the biology department, École normale supérieure - PSL
 
 ## Talks and posters 
+* Seminar of IDEEV (Institut Diversité Écologie et Évolution du Vivant) – September 18, 2026 –  Université Paris-Saclay, Gif-sur-Yvette, France
 * A multidimensional view of speciation: bridging micro and macro-evolution, CNRS Conférence Jacques Monod (talk) - October 21, 2025 - Roscoff, France
 * ESEB 2025 (talk and [poster](docs/Veron-et-al-2025-speciation-completion-rates_poster.pdf)) – August 17, 2025 – Barcelona, Spain 
 * Congrès des Jeunes Chercheur·e·s du Muséum – May 16, 2025 – Muséum National d'Histoire Naturelle, Paris, France
@@ -118,4 +112,4 @@ I signed the [manifesto of conscientious objection](https://atecopol.hypotheses.
 
 –
 
-Last update: 2026/09/25. © Pierre Veron. Photo © Klára Hlavatá 2025.
+Last update: 2026/11/10. © Pierre Veron. Photo © Klára Hlavatá 2025.
