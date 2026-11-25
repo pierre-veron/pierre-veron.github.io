@@ -1,7 +1,7 @@
 Pierre Veron, PhD
 =======================
 
-<img src="pierre_veron_resized.png" width=160><p align="center">
+<img src="pierre_veron_resized.png" width=160>
     
 <a href="https://cv.hal.science/pierre-veron"><img src="icons/hal.png" alt="CV HAL" width=40></a>
 <a href="https://scholar.google.com/citations?user=zMhd4LMAAAAJ&hl=fr" target="_blank"><img src="icons/scholar.png" alt="Google scholar" width=40></a>
@@ -100,7 +100,5 @@ Veron, P., Rozanski, R., Marques, V., Joost, S., Deschez, M. E., Trenkel, V. M.,
 I signed the [manifesto of conscientious objection](https://atecopol.hypotheses.org/13082) against the use of generative IA in research. 
 
 
-
-–
-
+---
 Last update: 2026/11/25. © Pierre Veron. Photo © Klára Hlavatá 2025.
