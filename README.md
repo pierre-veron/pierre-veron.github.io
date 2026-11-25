@@ -1,4 +1,5 @@
-# Pierre Veron, PhD 
+Pierre Veron, PhD
+==================
 <table>
     <tr>
         <td><img src="pierre_veron_resized.png" width=200><p align="center">
