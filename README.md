@@ -1,7 +1,7 @@
-Pierre Veron, PhD</h1>
+Pierre Veron, PhD
 =======================
 
-<td><img src="pierre_veron_resized.png" width=160><p align="center">
+<img src="pierre_veron_resized.png" width=160><p align="center">
     
 <a href="https://cv.hal.science/pierre-veron"><img src="icons/hal.png" alt="CV HAL" width=40></a>
 <a href="https://scholar.google.com/citations?user=zMhd4LMAAAAJ&hl=fr" target="_blank"><img src="icons/scholar.png" alt="Google scholar" width=40></a>
