@@ -1,28 +1,14 @@
-Pierre Veron, PhD
-==================
-<table>
-    <tr>
-        <td><img src="pierre_veron_resized.png" width=200><p align="center">
-   <a href="https://cv.hal.science/pierre-veron"><img src="icons/hal.png" alt="CV HAL" width=40></a>
-   <a href="https://scholar.google.com/citations?user=zMhd4LMAAAAJ&hl=fr" target="_blank"><img src="icons/scholar.png" alt="Google scholar" width=40></a>
-   <a href="https://orcid.org/0000-0003-2896-4250" target="_blank"><img src="icons/orcid.png" alt="ORCID" width=40></a>
-    <a href="https://github.com/pierre-veron"><img src="icons/github.jpg" alt="Github" width=40></a>
-</p>
-        </td>
-        <td>
-            <a href="#about">👋 About</a><br>
-            <a href="#my-work">💻 My work</a><br>
-            <a href="#publications">📃 Publications</a><br>
-            <a href="#teaching">🧑‍🏫 Teaching</a><br>
-            <a href="#talks-and-posters">💬 Talks and posters</a><br>
-            <a href="#contact">📧 Contact</a><br>
-            <a href="#misc">ℹ️ Misc</a><br>
-            <a href="https://pierre-veron.github.io/docs/CV_acad.pdf">🎓 Academic CV (English)</a><br>
-            <a href="https://pierre-veron.github.io/docs/CV_acad_FR.pdf">🎓 Academic CV (French)</a><br>
-            <a href="https://pierre-veron.github.io/docs/CV_francais.pdf">🎓 Short CV (French)</a><br>
-        </td>
-    </tr>
-</table>
+<h1>Pierre Veron, PhD</h1>
+
+<td><img src="pierre_veron_resized.png" width=160><p align="center">
+    
+<a href="https://cv.hal.science/pierre-veron"><img src="icons/hal.png" alt="CV HAL" width=40></a>
+<a href="https://scholar.google.com/citations?user=zMhd4LMAAAAJ&hl=fr" target="_blank"><img src="icons/scholar.png" alt="Google scholar" width=40></a>
+<a href="https://orcid.org/0000-0003-2896-4250" target="_blank"><img src="icons/orcid.png" alt="ORCID" width=40></a>
+<a href="https://github.com/pierre-veron"><img src="icons/github.jpg" alt="Github" width=40></a>
+
+
+🎓 CV : <a href="https://pierre-veron.github.io/docs/CV_acad.pdf">Academic (English)</a> • <a href="https://pierre-veron.github.io/docs/CV_acad_FR.pdf">Academic (French)</a> • <a href="https://pierre-veron.github.io/docs/CV_francais.pdf">Short (French)</a><br>
 
 ## About
 I am a post-doctoral researcher at the French National Institute of Health and Medical Research ([INSERM](https://www.inserm.fr/)). I am working on mathematical models of hepatitis C virus transmission and on the economic evaluation of intervention strategies, in the [PreViST](https://www.iame-research.center/?p=team-previst) team. 
@@ -34,6 +20,7 @@ My [PhD defense](https://pierre-veron.github.io/phd_defense) took place on *Thur
 
 My full résumé can be found [here](https://pierre-veron.github.io/docs/CV_acad.pdf).
 
+My pronouns: he/him.
 ## My PhD work 
 I worked on modelisation of the different steps of speciation, with the aim to understand which microevolutionary processes modulate the rates of speciation in the living world. 
 
@@ -85,6 +72,7 @@ Veron, P., Rozanski, R., Marques, V., Joost, S., Deschez, M. E., Trenkel, V. M.,
 \* = course given at the biology department, École normale supérieure - PSL
 
 ## Talks and posters 
+* Meetings of the Mathematics and Modelling Biodiversity chair ([talk](https://www.cmap.polytechnique.fr/~chaire-mmb/meeting19112026)) – November 19, 2026 – Université Paris-Cité, Paris, France
 * Seminar of IDEEV (Institut Diversité Écologie et Évolution du Vivant) – September 18, 2026 –  Université Paris-Saclay, Gif-sur-Yvette, France
 * A multidimensional view of speciation: bridging micro and macro-evolution, CNRS Conférence Jacques Monod (talk) - October 21, 2025 - Roscoff, France
 * ESEB 2025 (talk and [poster](docs/Veron-et-al-2025-speciation-completion-rates_poster.pdf)) – August 17, 2025 – Barcelona, Spain 
@@ -113,4 +101,4 @@ I signed the [manifesto of conscientious objection](https://atecopol.hypotheses.
 
 –
 
-Last update: 2026/11/10. © Pierre Veron. Photo © Klára Hlavatá 2025.
+Last update: 2026/11/25. © Pierre Veron. Photo © Klára Hlavatá 2025.
