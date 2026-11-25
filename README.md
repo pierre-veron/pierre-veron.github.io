@@ -1,4 +1,5 @@
-<h1>Pierre Veron, PhD</h1>
+Pierre Veron, PhD</h1>
+=======================
 
 <td><img src="pierre_veron_resized.png" width=160><p align="center">
     
