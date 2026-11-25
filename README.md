@@ -9,7 +9,7 @@ Pierre Veron, PhD</h1>
 <a href="https://github.com/pierre-veron"><img src="icons/github.jpg" alt="Github" width=40></a>
 
 
-🎓 CV : <a href="https://pierre-veron.github.io/docs/CV_acad.pdf">Academic (English)</a> • <a href="https://pierre-veron.github.io/docs/CV_acad_FR.pdf">Academic (French)</a> • <a href="https://pierre-veron.github.io/docs/CV_francais.pdf">Short (French)</a><br>
+🎓 CV : <a href="https://pierre-veron.github.io/docs/CV_acad.pdf">Academic (English)</a> • <a href="https://pierre-veron.github.io/docs/CV_acad_FR.pdf">Academic (French)</a> • <a href="https://pierre-veron.github.io/docs/CV_francais.pdf">Short (French)</a>
 
 ## About
 I am a post-doctoral researcher at the French National Institute of Health and Medical Research ([INSERM](https://www.inserm.fr/)). I am working on mathematical models of hepatitis C virus transmission and on the economic evaluation of intervention strategies, in the [PreViST](https://www.iame-research.center/?p=team-previst) team. 
@@ -22,6 +22,7 @@ My [PhD defense](https://pierre-veron.github.io/phd_defense) took place on *Thur
 My full résumé can be found [here](https://pierre-veron.github.io/docs/CV_acad.pdf).
 
 My pronouns: he/him.
+
 ## My PhD work 
 I worked on modelisation of the different steps of speciation, with the aim to understand which microevolutionary processes modulate the rates of speciation in the living world. 
 
