@@ -30,7 +30,12 @@ I worked on modelisation of the different steps of speciation, with the aim to u
 
 _Summary of the speciation steps and the most common ways to estimate them in the nature._
 
-To do so I rely on a modelisation approach, for instance using the holey adaptive landscape to analyse the influence of the parameters such as population size, mutation rate, outbreeding depression on the time for speciation in allopatric or parapatric mode. 
+To do so I rely on a modelisation approach, for instance using the holey adaptive landscape (proposed by Sergey Gavrilets) to analyse the influence of the parameters such as population size, mutation rate, genetic structure of incompatibility on the time for speciation in allopatric or parapatric mode. 
+
+
+<img src="fig/Holey_Adaptive_Landscape.png" alt="Illustration of the Holey Adaptive Landscape">
+
+_Illustration of the Holey Adaptive Landscape, a speciation model based on incompatibility of genetically distant individuals._
 
 Additionnaly, I work on more macroevolutionnary models such as the protracted birth death model of speciation (PBD) to analyse the most influent steps of speciation (population splitting, accumulation of reproductive isolation, population survival). 
 
@@ -102,3 +107,5 @@ I signed the [manifesto of conscientious objection](https://atecopol.hypotheses.
 
 ---
 Last update: 2026/11/25. © Pierre Veron. Photo © Klára Hlavatá 2025.
+
+
